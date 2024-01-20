@@ -1,1 +1,1 @@
-A program that generates random password according to selected options
+Cards that glows according to cursor position
