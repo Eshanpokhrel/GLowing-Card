@@ -1,1 +1,1 @@
-Cards that glows according to cursor position
+Cards that glows according to cursor position.
